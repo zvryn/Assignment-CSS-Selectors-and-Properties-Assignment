@@ -7,5 +7,6 @@ button {
   width: 120px;
   height: 36px;
   background-color: khaki;
-  color: lightgrey;
+  color: black;
+  border-color: lightgrey;
 }
